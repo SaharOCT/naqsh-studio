@@ -1,0 +1,8 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,81865,e=>{"use strict";var i=e.i(75723);e.s(["default",0,(e,t,a)=>{let n={...t},r=a.speed,o=(0,i.n)("bb");e.style.display="grid",e.style.placeItems="center";let p=document.createElement("div");p.className=o,e.appendChild(p);let d=()=>{},s=()=>{d();let t=(0,i.w)(n,"duration",4)/Math.max(.05,r);d=(0,i.C)(e,`
+@property --${o}-a{syntax:"<angle>";initial-value:0deg;inherits:false}
+.${o}{--a:var(--${o}-a);position:relative;width:min(100%,${(0,i.w)(n,"width",320)}px);border-radius:20px;padding:1.5px;background:conic-gradient(from var(--${o}-a),transparent 0 70%,${(0,i.L)(n,"c2")} 82%,${(0,i.L)(n,"c1")} 92%,transparent 100%),rgba(255,255,255,.08);animation:${a.reducedMotion?"none":`${o}-spin ${t}s linear infinite`}}
+.${o}::before{content:"";position:absolute;inset:-1px;border-radius:inherit;background:inherit;filter:blur(18px);opacity:.45;z-index:-1}
+.${o} .in{border-radius:19px;padding:28px;background:${(0,i.L)(n,"surface")};color:#f5f3ee}
+.${o} .eb{display:inline-block;font-size:11px;letter-spacing:.14em;padding:4px 10px;border-radius:99px;background:rgba(255,255,255,.07);color:${(0,i.L)(n,"c1")}}
+.${o} h3{margin:16px 0 8px;font-size:30px;letter-spacing:-.02em}.${o} p{margin:0;opacity:.65;line-height:1.55;font-size:14px}
+@keyframes ${o}-spin{to{--${o}-a:360deg}}`),p.innerHTML=`<div class="in"><span class="eb">${(0,i.c)((0,i.L)(n,"eyebrow"))}</span><h3>${(0,i.c)((0,i.L)(n,"title"))}</h3><p>${(0,i.c)((0,i.L)(n,"body"))}</p></div>`};return s(),{update(e){n={...n,...e},s()},setSpeed(e){r=e,s()},destroy(){d(),p.remove()}}}])}]);

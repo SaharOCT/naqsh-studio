@@ -1,0 +1,8 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,76204,e=>{"use strict";var a=e.i(75723),n=e.i(37960);e.s(["default",0,(e,t,i)=>{let r={...t},o=(0,a.n)("rl"),l=document.createElement("nav");l.className=o,e.appendChild(l);let s=()=>{},c=()=>{s();let t=(0,a.w)(r,"stagger",22),c=.55*!i.reducedMotion;s=(0,a.C)(e,`
+.${o}{display:flex;flex-direction:${"row"===(0,a.L)(r,"layout")?"row":"column"};gap:${"row"===(0,a.L)(r,"layout")?"1.2em":".05em"};align-items:center;font-size:${(0,a.w)(r,"size",64)}px;font-weight:700;letter-spacing:-.035em;line-height:1}
+.${o} a{position:relative;display:inline-flex;overflow:hidden;color:${(0,a.L)(r,"color")};text-decoration:none;padding-block:.06em}
+.${o} a span{display:inline-block;white-space:pre;transition:transform ${c}s cubic-bezier(.7,0,.2,1);transition-delay:calc(var(--i) * ${t}ms)}
+.${o} a .b{position:absolute;inset:0;display:inline-flex;color:${(0,a.L)(r,"hover")}}
+.${o} a .b span{transform:translateY(110%)}
+.${o} a:hover .a span,.${o} a:focus-visible .a span{transform:translateY(-110%)}
+.${o} a:hover .b span,.${o} a:focus-visible .b span{transform:none}`),l.innerHTML=(0,a.B)(r,"links").map(e=>{let t=n.X.test(e)?e.split(/(\s+)/):Array.from(e),i=e=>`<span class="${e}" aria-hidden="${"b"===e}">${t.map((e,n)=>`<span style="--i:${n}">${(0,a.c)(e)}</span>`).join("")}</span>`;return`<a href="#" dir="auto" aria-label="${(0,a.c)(e)}">${i("a")}${i("b")}</a>`}).join(""),l.querySelectorAll("a").forEach(e=>e.addEventListener("click",e=>e.preventDefault()))};return c(),{update(e){r={...r,...e},c()},destroy(){s(),l.remove()}}}])}]);

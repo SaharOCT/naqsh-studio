@@ -1,0 +1,499 @@
+{
+  "generatedAt": "2026-11-16T09:38:08.692Z",
+  "runtime": {
+    "iife": "naqsh-runtime.js",
+    "esm": "esm/naqsh-runtime.js",
+    "bytes": 15478,
+    "hash": "24e3095c2edd"
+  },
+  "components": {
+    "accordion": {
+      "iife": "components/accordion.js",
+      "esm": "esm/components/accordion.js",
+      "bytes": 2783,
+      "esmBytes": 3544,
+      "deps": [],
+      "hash": "f93aa075a41e"
+    },
+    "animated-bars": {
+      "iife": "components/animated-bars.js",
+      "esm": "esm/components/animated-bars.js",
+      "bytes": 2386,
+      "esmBytes": 3381,
+      "deps": [],
+      "hash": "e8d86aa1539d"
+    },
+    "aurora": {
+      "iife": "components/aurora.js",
+      "esm": "esm/components/aurora.js",
+      "bytes": 5718,
+      "esmBytes": 8668,
+      "deps": [],
+      "hash": "00cc7cfdb516"
+    },
+    "beams": {
+      "iife": "components/beams.js",
+      "esm": "esm/components/beams.js",
+      "bytes": 2780,
+      "esmBytes": 4678,
+      "deps": [],
+      "hash": "68f827940875"
+    },
+    "before-after": {
+      "iife": "components/before-after.js",
+      "esm": "esm/components/before-after.js",
+      "bytes": 4061,
+      "esmBytes": 5344,
+      "deps": [],
+      "hash": "039a3a9e2abf"
+    },
+    "blur-cycle": {
+      "iife": "components/blur-cycle.js",
+      "esm": "esm/components/blur-cycle.js",
+      "bytes": 1972,
+      "esmBytes": 2803,
+      "deps": [],
+      "hash": "164697746adb"
+    },
+    "blur-reveal": {
+      "iife": "components/blur-reveal.js",
+      "esm": "esm/components/blur-reveal.js",
+      "bytes": 2060,
+      "esmBytes": 3065,
+      "deps": [],
+      "hash": "61f996fbe8f1"
+    },
+    "border-beam-card": {
+      "iife": "components/border-beam-card.js",
+      "esm": "esm/components/border-beam-card.js",
+      "bytes": 1946,
+      "esmBytes": 2515,
+      "deps": [],
+      "hash": "5c0cbdf4e281"
+    },
+    "carousel-3d": {
+      "iife": "components/carousel-3d.js",
+      "esm": "esm/components/carousel-3d.js",
+      "bytes": 4762,
+      "esmBytes": 7065,
+      "deps": [],
+      "hash": "fbad1bbcab45"
+    },
+    "cinematic-slider": {
+      "iife": "components/cinematic-slider.js",
+      "esm": "esm/components/cinematic-slider.js",
+      "bytes": 7847,
+      "esmBytes": 10462,
+      "deps": [],
+      "hash": "e8c5730164d3"
+    },
+    "counter": {
+      "iife": "components/counter.js",
+      "esm": "esm/components/counter.js",
+      "bytes": 2223,
+      "esmBytes": 3204,
+      "deps": [],
+      "hash": "8b64c3d14e1e"
+    },
+    "coverflow": {
+      "iife": "components/coverflow.js",
+      "esm": "esm/components/coverflow.js",
+      "bytes": 5746,
+      "esmBytes": 8450,
+      "deps": [],
+      "hash": "84d52385c447"
+    },
+    "cursor-trail": {
+      "iife": "components/cursor-trail.js",
+      "esm": "esm/components/cursor-trail.js",
+      "bytes": 3491,
+      "esmBytes": 5798,
+      "deps": [],
+      "hash": "7a88dfce9e1c"
+    },
+    "curved-ticker": {
+      "iife": "components/curved-ticker.js",
+      "esm": "esm/components/curved-ticker.js",
+      "bytes": 4071,
+      "esmBytes": 6104,
+      "deps": [],
+      "hash": "cc4f8cb752e9"
+    },
+    "dock": {
+      "iife": "components/dock.js",
+      "esm": "esm/components/dock.js",
+      "bytes": 3619,
+      "esmBytes": 5389,
+      "deps": [],
+      "hash": "69969b678a35"
+    },
+    "elastic-slider": {
+      "iife": "components/elastic-slider.js",
+      "esm": "esm/components/elastic-slider.js",
+      "bytes": 6306,
+      "esmBytes": 9439,
+      "deps": [],
+      "hash": "e7e3132d93cd"
+    },
+    "feature-story": {
+      "iife": "components/feature-story.js",
+      "esm": "esm/components/feature-story.js",
+      "bytes": 6084,
+      "esmBytes": 8778,
+      "deps": [],
+      "hash": "a533c3be4b80"
+    },
+    "flip-card": {
+      "iife": "components/flip-card.js",
+      "esm": "esm/components/flip-card.js",
+      "bytes": 3864,
+      "esmBytes": 5085,
+      "deps": [],
+      "hash": "16136d99066f"
+    },
+    "glass-knot": {
+      "iife": "components/glass-knot.js",
+      "esm": "esm/components/glass-knot.js",
+      "bytes": 5536,
+      "esmBytes": 7809,
+      "deps": [
+        "three"
+      ],
+      "hash": "2dee9787f6be"
+    },
+    "glitch-text": {
+      "iife": "components/glitch-text.js",
+      "esm": "esm/components/glitch-text.js",
+      "bytes": 1828,
+      "esmBytes": 2806,
+      "deps": [],
+      "hash": "780043084b52"
+    },
+    "gradient-text": {
+      "iife": "components/gradient-text.js",
+      "esm": "esm/components/gradient-text.js",
+      "bytes": 1855,
+      "esmBytes": 2593,
+      "deps": [],
+      "hash": "5e8b1339e80a"
+    },
+    "horizontal-pin": {
+      "iife": "components/horizontal-pin.js",
+      "esm": "esm/components/horizontal-pin.js",
+      "bytes": 6274,
+      "esmBytes": 9024,
+      "deps": [],
+      "hash": "58c76d3effd4"
+    },
+    "hover-reveal": {
+      "iife": "components/hover-reveal.js",
+      "esm": "esm/components/hover-reveal.js",
+      "bytes": 5305,
+      "esmBytes": 7613,
+      "deps": [],
+      "hash": "079d7a68a1f3"
+    },
+    "image-trail": {
+      "iife": "components/image-trail.js",
+      "esm": "esm/components/image-trail.js",
+      "bytes": 4576,
+      "esmBytes": 6696,
+      "deps": [],
+      "hash": "8f4fbe59eda3"
+    },
+    "infinite-carousel": {
+      "iife": "components/infinite-carousel.js",
+      "esm": "esm/components/infinite-carousel.js",
+      "bytes": 4640,
+      "esmBytes": 6924,
+      "deps": [],
+      "hash": "3e5295a6e6cf"
+    },
+    "interactive-grid": {
+      "iife": "components/interactive-grid.js",
+      "esm": "esm/components/interactive-grid.js",
+      "bytes": 3379,
+      "esmBytes": 5626,
+      "deps": [],
+      "hash": "fa785513e6f5"
+    },
+    "magnetic-button": {
+      "iife": "components/magnetic-button.js",
+      "esm": "esm/components/magnetic-button.js",
+      "bytes": 2788,
+      "esmBytes": 4227,
+      "deps": [],
+      "hash": "5c3e6f5a73aa"
+    },
+    "mesh-gradient": {
+      "iife": "components/mesh-gradient.js",
+      "esm": "esm/components/mesh-gradient.js",
+      "bytes": 3049,
+      "esmBytes": 4939,
+      "deps": [],
+      "hash": "50f4a80d82c8"
+    },
+    "model-viewer": {
+      "iife": "components/model-viewer.js",
+      "esm": "esm/components/model-viewer.js",
+      "bytes": 73425,
+      "esmBytes": 7281,
+      "deps": [
+        "three"
+      ],
+      "hash": "fa4497757e7d"
+    },
+    "parallax-layers": {
+      "iife": "components/parallax-layers.js",
+      "esm": "esm/components/parallax-layers.js",
+      "bytes": 3935,
+      "esmBytes": 6052,
+      "deps": [],
+      "hash": "b1a7a8ad4672"
+    },
+    "particle-field": {
+      "iife": "components/particle-field.js",
+      "esm": "esm/components/particle-field.js",
+      "bytes": 3809,
+      "esmBytes": 6384,
+      "deps": [],
+      "hash": "7aba77315384"
+    },
+    "particle-globe": {
+      "iife": "components/particle-globe.js",
+      "esm": "esm/components/particle-globe.js",
+      "bytes": 4101,
+      "esmBytes": 5765,
+      "deps": [
+        "three"
+      ],
+      "hash": "d8a5679b662c"
+    },
+    "plasma": {
+      "iife": "components/plasma.js",
+      "esm": "esm/components/plasma.js",
+      "bytes": 4370,
+      "esmBytes": 6742,
+      "deps": [],
+      "hash": "2db7cbabf9f9"
+    },
+    "preloader": {
+      "iife": "components/preloader.js",
+      "esm": "esm/components/preloader.js",
+      "bytes": 2884,
+      "esmBytes": 3982,
+      "deps": [],
+      "hash": "7ad08e5abf5c"
+    },
+    "ripple-water": {
+      "iife": "components/ripple-water.js",
+      "esm": "esm/components/ripple-water.js",
+      "bytes": 3451,
+      "esmBytes": 5827,
+      "deps": [],
+      "hash": "562225cf956d"
+    },
+    "roll-links": {
+      "iife": "components/roll-links.js",
+      "esm": "esm/components/roll-links.js",
+      "bytes": 2055,
+      "esmBytes": 2728,
+      "deps": [],
+      "hash": "44e7b2251afa"
+    },
+    "rotating-words": {
+      "iife": "components/rotating-words.js",
+      "esm": "esm/components/rotating-words.js",
+      "bytes": 2267,
+      "esmBytes": 3303,
+      "deps": [],
+      "hash": "df78836e3394"
+    },
+    "scramble-text": {
+      "iife": "components/scramble-text.js",
+      "esm": "esm/components/scramble-text.js",
+      "bytes": 1499,
+      "esmBytes": 2551,
+      "deps": [],
+      "hash": "eb1dd895d540"
+    },
+    "scroll-fan": {
+      "iife": "components/scroll-fan.js",
+      "esm": "esm/components/scroll-fan.js",
+      "bytes": 5296,
+      "esmBytes": 8010,
+      "deps": [],
+      "hash": "27c07be7ea33"
+    },
+    "scroll-progress": {
+      "iife": "components/scroll-progress.js",
+      "esm": "esm/components/scroll-progress.js",
+      "bytes": 3007,
+      "esmBytes": 4370,
+      "deps": [],
+      "hash": "329a24219ad8"
+    },
+    "scroll-text-reveal": {
+      "iife": "components/scroll-text-reveal.js",
+      "esm": "esm/components/scroll-text-reveal.js",
+      "bytes": 3587,
+      "esmBytes": 5727,
+      "deps": [],
+      "hash": "60e9e805017d"
+    },
+    "scroll-zoom": {
+      "iife": "components/scroll-zoom.js",
+      "esm": "esm/components/scroll-zoom.js",
+      "bytes": 3921,
+      "esmBytes": 5668,
+      "deps": [],
+      "hash": "ed5c62dba33b"
+    },
+    "silk": {
+      "iife": "components/silk.js",
+      "esm": "esm/components/silk.js",
+      "bytes": 4508,
+      "esmBytes": 6859,
+      "deps": [],
+      "hash": "45c4024465e0"
+    },
+    "split-reveal": {
+      "iife": "components/split-reveal.js",
+      "esm": "esm/components/split-reveal.js",
+      "bytes": 2805,
+      "esmBytes": 4159,
+      "deps": [],
+      "hash": "c4eaf698e786"
+    },
+    "spotlight": {
+      "iife": "components/spotlight.js",
+      "esm": "esm/components/spotlight.js",
+      "bytes": 2886,
+      "esmBytes": 4642,
+      "deps": [],
+      "hash": "621b5645bf12"
+    },
+    "spotlight-card": {
+      "iife": "components/spotlight-card.js",
+      "esm": "esm/components/spotlight-card.js",
+      "bytes": 2367,
+      "esmBytes": 3134,
+      "deps": [],
+      "hash": "84f782788662"
+    },
+    "stack-carousel": {
+      "iife": "components/stack-carousel.js",
+      "esm": "esm/components/stack-carousel.js",
+      "bytes": 5296,
+      "esmBytes": 7831,
+      "deps": [],
+      "hash": "cf01344e26c6"
+    },
+    "stacked-cards": {
+      "iife": "components/stacked-cards.js",
+      "esm": "esm/components/stacked-cards.js",
+      "bytes": 4084,
+      "esmBytes": 5784,
+      "deps": [],
+      "hash": "7be16a832272"
+    },
+    "starfield": {
+      "iife": "components/starfield.js",
+      "esm": "esm/components/starfield.js",
+      "bytes": 3658,
+      "esmBytes": 6177,
+      "deps": [],
+      "hash": "c81d4bf32605"
+    },
+    "sticky-stack": {
+      "iife": "components/sticky-stack.js",
+      "esm": "esm/components/sticky-stack.js",
+      "bytes": 6157,
+      "esmBytes": 8992,
+      "deps": [],
+      "hash": "16f407807470"
+    },
+    "tabs-pill": {
+      "iife": "components/tabs-pill.js",
+      "esm": "esm/components/tabs-pill.js",
+      "bytes": 5350,
+      "esmBytes": 7092,
+      "deps": [],
+      "hash": "a986dc7a4a57"
+    },
+    "text-marquee": {
+      "iife": "components/text-marquee.js",
+      "esm": "esm/components/text-marquee.js",
+      "bytes": 2686,
+      "esmBytes": 4291,
+      "deps": [],
+      "hash": "2fc4fcde88bc"
+    },
+    "text-mask-image": {
+      "iife": "components/text-mask-image.js",
+      "esm": "esm/components/text-mask-image.js",
+      "bytes": 4189,
+      "esmBytes": 6193,
+      "deps": [],
+      "hash": "ce4e03664aa5"
+    },
+    "tilt-card": {
+      "iife": "components/tilt-card.js",
+      "esm": "esm/components/tilt-card.js",
+      "bytes": 4986,
+      "esmBytes": 7041,
+      "deps": [],
+      "hash": "0ce559b75b53"
+    },
+    "topographic": {
+      "iife": "components/topographic.js",
+      "esm": "esm/components/topographic.js",
+      "bytes": 3661,
+      "esmBytes": 6654,
+      "deps": [],
+      "hash": "ec4bbd4bfee6"
+    },
+    "typewriter": {
+      "iife": "components/typewriter.js",
+      "esm": "esm/components/typewriter.js",
+      "bytes": 1820,
+      "esmBytes": 2901,
+      "deps": [],
+      "hash": "d84aaf91ff67"
+    },
+    "vortex": {
+      "iife": "components/vortex.js",
+      "esm": "esm/components/vortex.js",
+      "bytes": 3614,
+      "esmBytes": 6066,
+      "deps": [],
+      "hash": "4b383cca4301"
+    },
+    "waves": {
+      "iife": "components/waves.js",
+      "esm": "esm/components/waves.js",
+      "bytes": 2521,
+      "esmBytes": 4259,
+      "deps": [],
+      "hash": "5d7e1c0152ea"
+    },
+    "zoom-parallax": {
+      "iife": "components/zoom-parallax.js",
+      "esm": "esm/components/zoom-parallax.js",
+      "bytes": 5445,
+      "esmBytes": 8244,
+      "deps": [],
+      "hash": "c23465923758"
+    }
+  },
+  "vendor": {
+    "three": {
+      "file": "vendor/three.js",
+      "bytes": 749484
+    },
+    "lenis": {
+      "file": "vendor/lenis.js",
+      "bytes": 19542
+    }
+  }
+}
